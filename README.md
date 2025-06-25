@@ -12,9 +12,9 @@ Aplicación React para calcular el enésimo valor de una serie numérica.
 Clona el repositorio y ejecuta:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 # o
-yarn install
+yarn install --legacy-peer-deps
 ```
 
 ## 🧑‍💻 Desarrollo
